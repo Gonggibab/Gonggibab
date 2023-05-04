@@ -1,10 +1,10 @@
 ## 👋🏻 Hi, I'm a junior Frontend Developer.
 
 <a href="https://gonggibab.notion.site/fa6148e8f6b64f4589f69bf716461d11" target="_blank">
-  <img src="https://img.shields.io/badge/BLOG-333333?style=flat-square&logo=notion&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=notion&logoColor=ffffff"/>
 </a>
 <a href="mailto:qwaszxed1234@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"/>
 </a>
 
 <p>
