@@ -1,4 +1,4 @@
-### 👋🏻 Hi, I'm a junior Frontend Developer.
+## 👋🏻 Hi, I'm a junior Frontend Developer.
 
 <a href="https://gonggibab.notion.site/fa6148e8f6b64f4589f69bf716461d11" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-333333?style=flat-square&logo=notion&logoColor=ffffff"/>
