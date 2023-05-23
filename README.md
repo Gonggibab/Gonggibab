@@ -17,16 +17,16 @@
 ## Language & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Javascript-ffffff?style=flat&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Typescript-ffffff?style=flat&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-ffffff?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NextJS-ffffff?style=flat&logo=nextdotjs&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/VScode-ffffff?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ## GitHub Langs & Stats
