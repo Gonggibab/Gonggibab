@@ -31,7 +31,7 @@
 
 ## GitHub Langs & Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonggibab&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonggibab&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonggibab&show_icons=true)
 
