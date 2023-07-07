@@ -30,8 +30,8 @@
 </div>
 
 ## GitHub Langs & Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonggibab&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonggibab&show_icons=true)
+<div style="display: flex;">
+    <img height=220 align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonggibab&layout=compact"/>
+    <img height=220 align=top src="https://github-readme-stats.vercel.app/api?username=gonggibab&show_icons=true"/>
+</div>
 
