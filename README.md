@@ -31,7 +31,7 @@
 
 ## GitHub Langs & Stats
 <div style="display: flex;">
-    <img height=200 align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonggibab&layout=compact"/>
-    <img height=200 align=top src="https://github-readme-stats.vercel.app/api?username=gonggibab&show_icons=true"/>
+    <img height=180 align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonggibab&layout=compact"/>
+    <img height=180 align=top src="https://github-readme-stats.vercel.app/api?username=gonggibab&show_icons=true"/>
 </div>
 
